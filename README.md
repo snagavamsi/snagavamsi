@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Exploring and Debugging**
 - 🌱 I’m currently learning **Flutter**
 - 💞️ Always available for **support**
-- 📫 Can reach me **nagavamsi.s@hng.co.in / 9985547754**
+- 📫 Can reach me **snagavamsi@gmail.com / 9985547754**
 
 <!---
 snagavamsi/snagavamsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
